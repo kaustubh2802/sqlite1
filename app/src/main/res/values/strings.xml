@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SQLITE CRUD</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="add_employee">Add Employee</string>
+    <string name="view_employee">View Employee</string>
+    <string name="id">id</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+</resources>
